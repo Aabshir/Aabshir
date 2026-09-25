@@ -1,4 +1,4 @@
-# Hi, I'm Aabshir 👋
+# Hi, I'm Abshir 👋
 
 Founder and full-stack builder. I've been shipping production software since 2013 — much of it for companies and products I can't name — and I design, build, and operate my own product end-to-end, from schema to CI to the server it runs on.
 
